@@ -1,0 +1,69 @@
+Computer Science
+510 McNair Hall
+F
+Jimmie,Carey,9506969834,6/2/1979,283-539-2279
+9/25/1999,PT,Computer Science
+Assistant,Cyber Security
+COMP777,3, 14:00, 14:50
+COMP555, 3, 12:00,14:50
+*
+S
+Sam, Shin, 950173618,12/11/1954,992-142-5182
+8/11/2003, FT, COE Deans Office
+Academic Advisor
+Mark,Clavin ,950937134, 01/10/1965, 213-626-8523
+Contributing
+F
+Mitsuko, Tedford ,9507268755 ,6/24/1979, 500-645-9095
+10/10/1993, FT, Computer Science
+Associate, Artificial Intelligence
+COMP777, 3, 14:00, 14:50
+COMP555, 3, 12:00 ,14:50
+COMP222, 3 ,10:00 ,11:50
+*
+F
+Verla ,Stanton, 9505896289 ,3/17/1977, 515-585-1619
+8/12/1957, FT, Computer Science
+Full, Academic
+COMP777, 3, 14:00, 14:50
+COMP555, 3, 12:00, 14:50
+COMP987, 3, 10:00 ,11:50
+*
+S
+Robert, Wasser, 950173618, 1/13/1984, 912-144-5162
+8/11/2003, FT, Engineering
+Student Coordinator
+Peter, Chello, 950937134, 07/12/1965, 241-926-5627
+Journey
+U
+Daniel ,Suggs, 950237462, 8/30/1993, 251-425-2450
+Engineering, 12, 3.92
+ECEN101, 3 ,13:00 ,14:50
+ECEN227, 3, 10:00, 11:50
+ECEN300, 3, 09:00 ,9:50
+ECEN306, 3, 12:00, 14:50
+*
+G
+Audrey, Godfrey, 9502649273, 09/12/1986, 229-483-2847
+Computer Science, 9 ,3.5
+COMP777, 3, 14:00, 14:50
+COMP555, 3, 12:00, 14:50
+COMP987 ,3, 10:00, 11:50
+*
+Preventing Cyber Attacks
+Cyber Security, RA
+U
+Samuel, Brizendine, 9502629873, 02/12/1990, 614-243-7770
+Computer Science,9, 3.9
+MEEN245, 3, 13:00, 14:50
+MEEN945, 3, 10:00, 11:50
+MEEN555, 3, 09:00, 9:50
+*
+U
+Lisa, Shay, 9509264572, 04/01/1992 ,401-420-3175
+Engineering, 13 ,3.6
+ECEN445, 3 ,12:00, 14:50
+ECEN925, 3, 11:00, 12:50
+ECEN565, 3, 14:00, 14:50
+MATH344, 4, 15:00m, 15:50
+*
